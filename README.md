@@ -27,7 +27,7 @@ Visit : http://www.molecularconnections.com
 - Use Pagination/Filtering option to filter your search based on your needs.-
 
 
-![usage](http://gitlab.molecularconnections.com/jashobanta/elastic-ui/-/raw/master/public/images/logos/Hnet-image.gif)
+![usage](https://raw.githubusercontent.com/Molecular-Connections/elastic-viewer/master/public/images/logos/Hnet-image.gif)
 
 
 ## Available Scripts
