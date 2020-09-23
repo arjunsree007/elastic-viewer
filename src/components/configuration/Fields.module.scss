@@ -1,0 +1,7 @@
+.fieldsForm {
+	max-height: 40vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+	display: grid;
+    grid-template-columns: auto auto auto;
+}

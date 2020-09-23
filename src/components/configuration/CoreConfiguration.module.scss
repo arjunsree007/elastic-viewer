@@ -1,0 +1,26 @@
+.mainCard {
+  padding: 1rem;
+}
+.coreListCard {
+  border: none !important;
+  background-color: #dcdcdc !important;
+}
+
+.coreListHeader {
+  font-weight: 700;
+}
+
+.dataConfigurationCard {
+  border: none !important;
+}
+
+.dataConfigurationHeader {
+  font-weight: 700;
+  text-align: center;
+}
+
+.dataConfigurationCard .nav .nav-tabs {
+  // padding-left: 13rem !important;
+  //background-color: #563d7c !important;
+  border-bottom: none !important;
+}

@@ -1,0 +1,46 @@
+.pagination {
+	display: flex;
+	align-items: center;
+	color: #0056b3;
+}
+
+.pagination i {
+	cursor: pointer;
+	line-height: 1.25;
+	padding: 0.5rem 0.75rem;
+	border: 1px solid #dee2e6;
+	background-color: #ffffff;
+	color: #007bff;
+}
+
+.pagination i:hover {
+	z-index: 2;
+	color: #0056b3;
+	text-decoration: none;
+	background-color: #e9ecef;
+	border-color: #dee2e6;
+}
+
+.active {
+	z-index: 3;
+	color: #fff !important;
+	background-color: #007bff !important;
+	border-color: #007bff !important;
+}
+
+.pagination span {
+	cursor: pointer;
+	line-height: 1.25;
+	padding: 0.5rem 0.75rem;
+	border: 1px solid #dee2e6;
+	background-color: #ffffff;
+	color: #007bff;
+}
+
+.pagination span:hover {
+	z-index: 2;
+	color: #0056b3;
+	text-decoration: none;
+	background-color: #e9ecef;
+	border-color: #dee2e6;
+}

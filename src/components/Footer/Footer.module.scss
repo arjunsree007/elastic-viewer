@@ -1,0 +1,27 @@
+@import "../../custom_styles/variables.scss";
+
+/**
+ *
+ * @version
+ * @author: sandeep_k
+ * @create date: 2020-01-28
+ * @modified by: ambily.tv
+ * @modified date:  2020-03-04
+ *
+ * Footer styles 
+ */
+
+.footer {
+  color: $primary-color;
+  background-color: #dcdcdc;
+  width: 100%;
+  //overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  // width: 100%;
+  text-align: center !important;
+  /* color: black;
+ 
+  //padding: 14px 16px;
+  font-size: 14px;*/
+}
