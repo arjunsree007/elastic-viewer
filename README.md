@@ -2,7 +2,7 @@
 ![React Version](https://img.shields.io/badge/react-v16.13-brightgreen.svg)
 
 
-This plug & play UI is part of MC Github. 
+This plug & play UI is part of MC Github.The view has been modified to the table layout.
 
 **Step by Step Guide:**
 
@@ -14,10 +14,8 @@ This plug & play UI is part of MC Github.
 - Enter the core name for browsing the elastic data(optionally you can choose from the list of cores available).
 - Enter configuraion settings for the core (Search/Filter/Display)
 - Once the Fields are configured you can view the Elastic data based on the settings you provided.
-- Use Pagination/Filtering option to filter your search based on your needs.-
+- Use Pagination/Filtering option to filter your search based on your needs.
 
-
-![usage](http://gitlab.molecularconnections.com/jashobanta/elastic-ui/-/raw/master/public/images/logos/Hnet-image.gif)
 
 
 ## Available Scripts
