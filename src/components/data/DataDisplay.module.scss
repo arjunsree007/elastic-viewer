@@ -1,0 +1,25 @@
+.textMore {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 20; /* number of lines to show */
+  -webkit-box-orient: vertical;
+  -ms-text-overflow: ellipsis;
+}
+
+.detailsTable {
+  overflow-y: auto;
+  height: 200px;
+}
+
+.detailsTable thead th {
+  position: sticky;
+  top: 0;
+}
+
+.tableContent {
+  min-height: 20px !important;
+  max-height: 200px !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+}
